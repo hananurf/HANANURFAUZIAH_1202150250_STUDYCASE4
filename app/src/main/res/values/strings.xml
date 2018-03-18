@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HANANURFAUZIAH_1202150250_STUDYCASE4</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="NamaMahasiswa">
+        <item> Farah </item>
+        <item> Ranti </item>
+        <item> Ega </item>
+        <item> Putri </item>
+        <item> Ichsan </item>
+        <item> Faizal </item>
+        <item> Ayu </item>
+        <item> Pratiwi </item>
+        <item> Nana </item>
+        <item> Hylda </item>
+    </string-array>
+</resources>
